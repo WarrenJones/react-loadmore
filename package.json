@@ -1,5 +1,5 @@
 {
-  "name": "react-common-loadmore",
+  "name": "react-more-load",
   "version": "1.0.2",
   "description": "a load more list component base on React",
   "main": "dist/index.js",

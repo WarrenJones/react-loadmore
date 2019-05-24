@@ -8,12 +8,12 @@ a configurable turnplate in React
 # react-loadmore
 
 ```
-$ npm install --save  react-loadmore
+$ npm install --save  react-more-load
 ```
 
 # how to use
 ```
-  import ReactLoadMore from "react-loadmore";
+  import ReactLoadMore from "react-more-load";
  <ReactLoadMore
         onBottom={this.loadMore.bind(this)}
         fetching={fetching}
