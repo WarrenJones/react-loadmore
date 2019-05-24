@@ -5,7 +5,7 @@ a configurable turnplate in React
 ![](https://res.unclewarren.cn/react-loadmore-snapshot.gif)
 ---
 
-# react-loadmore
+# react-more-load
 
 ```
 $ npm install --save  react-more-load

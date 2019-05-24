@@ -1,6 +1,6 @@
 {
   "name": "react-more-load",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a load more list component base on React",
   "main": "dist/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WarrenJones/react-turnplate.git"
+    "url": "git+https://github.com/WarrenJones/react-loadmore.git"
   },
   "keywords": [
     "react",
