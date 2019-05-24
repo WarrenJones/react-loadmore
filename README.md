@@ -48,8 +48,8 @@ you can also fork the code and `npm start` to run the example.
 
 ## props 
 
-| params        | type   |  desc  | necessary|
-| --------   | -----:  | :----:  |
+| params        | type   |  desc  | necessary |
+| --------   | -----:  | :----:  |:----:  |
 | onBottom | func | when the user scroll to the bottom| true|
 | fetching | bool | isFetchingData| true|
 | fetching | bool | isFetchingData| true|
