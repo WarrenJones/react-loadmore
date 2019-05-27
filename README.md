@@ -1,6 +1,6 @@
 # SnapShots
 
-a configurable turnplate in React
+a load more list component base on React
 
 ![](https://res.unclewarren.cn/react-loadmore-snapshot.gif)
 ---
