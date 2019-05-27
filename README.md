@@ -52,7 +52,6 @@ you can also fork the code and `npm start` to run the example.
 | --------   | -----:  | :----:  |:----:  |
 | onBottom | func | when the user scroll to the bottom| true|
 | fetching | bool | isFetchingData| true|
-| fetching | bool | isFetchingData| true|
 | hasMore | bool | has more data| true|
 | NoResult | func | return the ui dom of no result | false|
 | Footer | func | return the ui dom loading Footer | false|
