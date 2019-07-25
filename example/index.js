@@ -36,7 +36,7 @@ class App extends React.Component {
         fetching={fetching}
         hasMore={hasMore}
         NoResult={NoResult}
-        Footer={null}
+        Footer={()=><div>loading ...</div>}
       >
         {dataList.map((item,index) => {
           return (

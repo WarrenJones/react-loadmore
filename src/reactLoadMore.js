@@ -68,7 +68,7 @@ export default class ReactLoadMore extends React.Component {
         <div style={{ clear: "both" }}> </div>
         <div style={{ display: hasMore ? "block" : "none" }} id='bottom'>
           {Footer ? (
-            { Footer }
+            <Footer/>
           ) : (
             <div className={"list-loader"}>
               <div id={"foot_loader"} />

@@ -14,6 +14,8 @@ $ npm install --save  react-more-load
 # how to use
 ```
   import ReactLoadMore from "react-more-load";
+  const NoResult = ()=> <span>No more Result,~~</span>;
+  const Footer = ()=> <span>loading....~~</span>;
  <ReactLoadMore
         onBottom={this.loadMore.bind(this)}
         fetching={fetching}

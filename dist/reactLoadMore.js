@@ -118,7 +118,7 @@ var ReactLoadMore = function (_React$Component) {
         _react2.default.createElement(
           "div",
           { style: { display: hasMore ? "block" : "none" }, id: "bottom" },
-          Footer ? { Footer: Footer } : _react2.default.createElement(
+          Footer ? _react2.default.createElement(Footer, null) : _react2.default.createElement(
             "div",
             { className: "list-loader" },
             _react2.default.createElement("div", { id: "foot_loader" })

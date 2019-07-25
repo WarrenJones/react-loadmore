@@ -1,6 +1,6 @@
 {
   "name": "react-more-load",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "a load more list component base on React",
   "main": "dist/index.js",
   "scripts": {
